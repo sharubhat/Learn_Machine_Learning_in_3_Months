@@ -1,6 +1,6 @@
 # 100-Days-Of-ML-Code
 
-100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell)
+100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell), curriculum [here](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)
 
 # Daily activity log.
 
